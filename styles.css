@@ -1,0 +1,18 @@
+#nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  @media ( min max){#nav-bar{
+    position: static;
+  }
+  
+  }
+  ul {
+    display:flex;
+  }
+  li{
+  float: left;
+  display: block;
+  }
+
