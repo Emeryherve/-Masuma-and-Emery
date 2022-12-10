@@ -2,6 +2,11 @@
     position: fixed;
     top: 0;
     left: 0;
+    background-color: blueviolet;
+    height: 2.50rem;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
   }
   @media ( min max){#nav-bar{
     position: static;
@@ -14,5 +19,6 @@
   li{
   float: left;
   display: block;
+  color: bisque;
   }
 
